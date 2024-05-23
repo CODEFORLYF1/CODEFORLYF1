@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CODEFORLYF1
+- 👋 Hi, I’m @DakshSunil
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning JAVA, HTML, CSS AND DSA USING C++
 - 💞️ I’m looking to collaborate on ANY PROJECTS I GET ONTO
