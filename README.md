@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DakshSunil
-- 👀 I’m interested in CODING
-- 🌱 I’m currently learning Kotlin, HTML, CSS AND DSA using Java, Angular JS, Node JS
+- 👋 Hi, I’m DakshSunil
+- 👀 I’m interested in Coding.... Hacking tbh
+- 🌱 I’m currently learning Flutter, Kotlin, JS, and a bit of Metasploit 😈 
 - 💞️ I’m looking to collaborate on ANY PROJECTS I GET ONTO
-- 📫 How to reach me use my mail id dakshrockxzzz@gmail.com
+- 📫 How to reach me use my mail id dakshchandiramani17@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Im a writer and i ended up in coding :)
   
 
 <!---
